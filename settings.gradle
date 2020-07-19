@@ -1,0 +1,5 @@
+include ':jokesactivity'
+include ':javaJokes'
+include ':app', ':backend'
+
+
